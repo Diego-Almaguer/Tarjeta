@@ -1,0 +1,79 @@
+
+body,html{
+
+
+background-color:#E5EAF0 ;}
+
+
+
+
+.card{
+margin: 164px;
+
+width: 368px;
+border-color:#FFFFFF;
+background-color: #FAFAF9;
+border-radius: 2%;
+
+}
+
+
+.card-img-top{
+   
+
+border-radius: 4%;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+.card-text{
+padding-top: 6px;
+
+    
+font-size: 14px;
+
+}
+
+
+.titulo{
+font-size: 18px;
+padding-top: 16px;
+
+
+  
+}
+
+
+.img{
+padding-left: 16px;
+padding-top: 16px;
+padding-bottom: 16px;
+padding-right: 16px;
+
+}
+
+
+.ann{
+font-size: 12px;
+}
+
+
+
+#etiqueta{
+font-size: 10px;
+
+
+}
+
+
+
+
