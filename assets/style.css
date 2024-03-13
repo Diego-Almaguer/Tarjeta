@@ -2,102 +2,78 @@
 body,html{
 
 
-background-color:#E5EAF0 ;}
-
-
-
-
-.card{
-margin: 164px;
-
-width: 368px;
-border-color:#FFFFFF;
-background-color: #FAFAF9;
-border-radius: 2%;
-
+    background-color:#e3e7ee ;
 }
 
 
-.card-img-top{
-   
-
-border-radius: 4%;
-
-
+#card{
+    margin: 164px;
+    height: 360px;
+    width: 336px;
+    border-color:#ffffff;
+    background-color: #FAFAF9;
+    border-radius: 4%;
+    
 }
 
 
 
-
-.sep{
-
-margin-top: -10px;
-}
-
-
-
-
-
-.card-text{
-padding-top: 6px;
 
     
-font-size: 14px;
+
+img{
+
+padding: 16px;
 
 }
 
 
-.titulo{
-font-size: 18px;
-padding-top: 16px;
 
-
+p{
   
+    font-size: 10px;
+    
+    
 }
 
 
-.img{
-padding-left: 16px;
-padding-top: 16px;
-padding-bottom: 16px;
-padding-right: 16px;
+.diseno{
+    background-color: #E6D6FC;
+    width: 20%;
+    text-align: center;
+    border-radius: 4px;
+    color: #883AE1;
+
 
 }
 
 
-.ann{
+#contener{
+    padding-left: 16px;
+    
+    
+    }
+
+
+.annie{
+
+    padding-left: 16px;
+   
+ 
+}
+
+
+#annie{
+
 font-size: 12px;
-}
-
-
-
-#etiqueta{
-font-size: 10px;
-
 
 }
 
-#new{
-font-size: 10px;
-padding: 4px  4px;
-margin-top: 15px;
-background-color: aqua;
-width: 20%;
-
-text-align: center;
-
-border-bottom-left-radius: 25%;
-border-bottom-right-radius: 25%;
-border-top-left-radius: 25%;
-border-top-right-radius: 25%;
-
-background-color: #E6D6FC;
-
-color: #883AE1;
-
-
-
+.cuerpo{
+font-size: 14px;
 }
 
 
+h6{
 
+font-size: 18px;}
